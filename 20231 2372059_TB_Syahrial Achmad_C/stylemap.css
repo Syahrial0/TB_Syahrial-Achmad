@@ -1,0 +1,145 @@
+/* 2372059 Syahrial Achmad C */
+
+body {
+    font-family: 'Bebas Neue', sans-serif;
+     margin: 0;
+     padding: 0;
+    }   
+
+/* navbar */
+.navbar {
+  box-shadow: 0px 3px 8px rgb(174, 174, 174);
+  background-color: black;
+  padding: 20px;
+
+}
+.nav-item {
+  text-decoration-color: white;
+  font-size: xx-large;
+}
+.nav-item a{
+ justify-content: center;
+}
+.navbar-brand{
+  font-size: xx-large;
+  color: white;
+ }
+.imageNavbar {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+  /* video */
+video{
+  width: 100%;
+}
+     
+/* card */
+.main-row {
+    overflow: hidden;
+   
+    
+  }
+  
+  .card-container {
+    margin-top: 100px;
+  }
+  
+  .card-container h2 {
+    text-decoration: 6px underline red;
+    text-transform: uppercase;
+    text-underline-offset: 0.5rem;
+    color: white;
+    
+  }
+  
+  .card {
+    box-shadow: 7px 7px 4px rgb(215, 31, 3);
+ }
+
+ /* Footer */
+.footer-container {
+  height: auto;
+  padding-bottom: 30px;
+  background-color:black;
+  
+}
+
+.kidney {
+  transform: scale(0.7);
+}
+
+.company-profile {
+  width: 25%;
+}
+
+.company-profile img {
+  width: 70px;
+}
+
+.company-name {
+  display: inline;
+}
+
+.company-profile p {
+  font-size: 0.8rem;
+  padding-top: 1em;
+}
+
+.icons {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.discovery {
+  padding-bottom: 100px;
+  padding-right: 60px;
+  color: white;
+}
+
+.discovery a {
+  line-height: 2rem;
+  display: block;
+  text-decoration: none;
+  color: rgb(65, 65, 65);
+}
+.col1{
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.minds {
+  padding-bottom: 40px;
+  color: white;
+}
+
+.minds li {
+  list-style: none;
+  line-height: 2rem;
+  font-size: 1rem;
+}
+#content{
+  justify-content: left;
+  color: white;
+}
+.teen{
+  height: 100px;
+  width: 90px;
+}
+.icon-container img {
+  cursor: pointer;
+}
+
+.footer-content {
+  justify-content: center;
+  align-items: center;
+}
+/* End of Footer */
+
+
+
+
+

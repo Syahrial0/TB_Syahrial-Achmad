@@ -1,0 +1,53 @@
+/* 2372059 Syahrial Achmad C */
+  
+  @media (max-width: 991px) {
+    .kotak{
+      font-size: 50px;
+    }
+  
+    .footer-content {
+      flex-direction: column;
+      justify-content: start;
+      align-items: flex-start;
+    }
+  
+    .discovery,
+    .collaborative-minds {
+      padding: 20px 0px 20px 10px;
+    }
+  
+    .company-content {
+      order: -1;
+    }
+  
+    .kidney {
+      transform: scale(0.7);
+    }
+  
+    .footer-container {
+      height: auto;
+    }
+    
+  }
+  
+  /* Tablets */
+  @media (max-width: 1023px) {
+    #myvideo{
+        visibility: hidden;
+    }
+
+    .kotak{
+      font-size: 50px;
+    }
+  }
+  
+  /* Mobile Devices */
+  @media (max-width: 767px) {
+    #myvideo{
+        visibility: hidden;
+    }
+
+    .kotak{
+      font-size: 50px;
+    }
+  }
